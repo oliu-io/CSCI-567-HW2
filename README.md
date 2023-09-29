@@ -1,6 +1,6 @@
 # Bring Your Own BERT
 
-In this assignment, we will implement our own BERT model from scratch! This repo is adapted from materials provided by Redwood Research[https://www.redwoodresearch.org/mlab].
+In this assignment, we will implement our own BERT model from scratch! This repo is adapted from materials provided by [Redwood Research](https://www.redwoodresearch.org/mlab).
 
 To get started, first clone this repo and run
 ```
