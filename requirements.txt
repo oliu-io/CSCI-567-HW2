@@ -1,0 +1,5 @@
+torch
+torchtext
+transformers
+einops
+gin-config
