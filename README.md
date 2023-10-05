@@ -41,6 +41,7 @@ Majority of implementations will also be required under `lib` with specified tag
 * CNN: The IPython Notebook `CNN/Problem.ipynb` will walk you through implementing the basics of neural networks, and then then implementing a convolutional neural network (CNN) from scratch.
 * BERT: You should implement all the code segments in `BYOB/bert_impl.py`. To verify your implementation, run
 ```shell
+cd BYOB
 python bert_impl.py
 ```
 
@@ -49,7 +50,7 @@ If you have any question or find a bug in this assignment (or even any suggestio
 
 Again, NO INDIVIDUAL EMAILS WILL BE RESPONDED.
 
-PLEASE USE **PIAZZA** TO POST QUESTIONS (under folder assignment1).
+PLEASE USE **PIAZZA** TO POST QUESTIONS.
 
 ## FAQ
 
@@ -74,10 +75,6 @@ Unless specified otherwise (eg for hyperparameters) please do not change any cod
 - **My %reload_ext autoreload command does not work, how to fix it?**\
 This has been observed in the past and, whenever it was a problem, could be fixed by downgrading IPython to version 7.5.0: `pip3 install ipython==7.5`.
 
-- **The submission script is not working on Windows machines**\
-Try installing the `zip` package through `cygwin`.
-
 - **General debugging tips**
 1. Make sure your implementations matches the specified model layers perfectly.
 2. Put print statements at various places inside your implementation code to make sure every module is working as it should. 
-(but please remove any additional print statements for submission)
