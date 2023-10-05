@@ -3,3 +3,9 @@ torchtext
 transformers
 einops
 gin-config
+numpy
+jupyter
+ipykernel
+scipy
+matplotlib
+tqdm
