@@ -8,10 +8,9 @@ You will need to make sure that your conda setup is of the correct version of py
 Please refer to [here](https://conda.io/projects/conda/en/latest/user-guide/install/index.html#regular-installation) for instructions on installing Anaconda.
 
 ## The objectives of this assignment
-We have prepared to problems for this assignment, CNN and BERT
+We have prepared two problems for this assignment, CNN and BERT
 ### CNN
 * Implement the forward and backward passes as well as the neural network training procedure
-* Implement the widely-used optimizers and training tricks including dropout, weight decay, and L1&L2 regularizations
 * Implement convolutional neural networks from scratch
 * Use convolutional neural networks for image classification
 ### BERT
